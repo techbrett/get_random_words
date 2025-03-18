@@ -1,5 +1,5 @@
 # Python Script: search_terms.py
-Generate 30 random words (used for Bing rewards farming)
+Generate 30 random words (Bing rewards farming)
 
 1. Launch Visual Studio Code
 2. Open search_terms.py
